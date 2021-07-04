@@ -1,3 +1,5 @@
+import '../css/style.css';
+
 const ul = document.querySelector("ul");
 const form = document.querySelector("form");
 const input = document.querySelector("form > input");
